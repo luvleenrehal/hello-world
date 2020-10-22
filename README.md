@@ -1,2 +1,2 @@
 # hello-world
-This is a hello-world respository
+Im Luvleen and second year cs student!
